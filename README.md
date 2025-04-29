@@ -1,2 +1,3 @@
 # faces_vertesAI
-Este dataset voltado para objec detection foi feito pensando em tornar possível o treinamento de um modelo de inteligência artificial com NO-CODE pelo Vertex AI.
+The data source of the dataset is https://www.kaggle.com/datasets/sbaghbidi/human-faces-object-detection
+This data set focused on object detection was made thinking to make possible the training of an artificial intelligence model with NO-CODE by Vertex AI, in a simple way for beginners
